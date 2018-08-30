@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMakingAPIJuly2018", "TestMakingAPIJuly2018\TestMakingAPIJuly2018.csproj", "{CF09F319-7255-444E-8EA7-949EB866BD95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF09F319-7255-444E-8EA7-949EB866BD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF09F319-7255-444E-8EA7-949EB866BD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF09F319-7255-444E-8EA7-949EB866BD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF09F319-7255-444E-8EA7-949EB866BD95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BD1C1D-8558-45F4-8CC6-BC643A96EE9C}
+	EndGlobalSection
+EndGlobal
